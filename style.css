@@ -11,11 +11,13 @@
     font-size: xx-large;
 }
 .block1{
-    height: 300px;
-    width: 500px;
-    border: solid 5px orange;
-    background-color: black;
-    position: sticky; top: 0px; left: 500px;
+    height: 270px;
+    width: 250px;
+    border: solid 5px aquamarine;
+    background-color: grey;
+    position: fixed; top: 572px; left: 500px;
+    font-size: xx-large;
+    color: black;
 }
 .text1{
     font-size: xx-large;
